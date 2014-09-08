@@ -35,7 +35,7 @@ This is the tricky part, two files are required on the Raspberry Pi:
 
 The last thing to do is to run our `websocket_server.py` script automatically after booting the Raspberry Pi. I use Arch Linux for ARM, so `systemd` is my service manager, I just created a configuration file named `picast.service` which contains
 
-{% highlight bash %}
+``` bash
 [Unit]
 Description=Raspberry PI Cast Project
 Requires=
@@ -49,7 +49,7 @@ PIDFile=/tmp/websocket_server.pid
 
 [Install]
 WantedBy=multi-user.target 
-{% endhighlight %}
+```
 
 and I just put it inside `/etc/systemd/system`.
 
