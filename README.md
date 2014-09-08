@@ -11,7 +11,7 @@ I am happy to present RPI-Cast a Google Chrome's extension that will turn your R
 
 ## Client side
 
-This is the easy part. First you need to download my RPI-cast extension ([RPI-cast](../lectures/RPI-cast.zip)) and import it on your Google Chrome browser (using the `chrome://extensions` configuration page). 
+This is the easy part. First you need to download my RPI-cast extension ([RPI-cast](http://andresromero.github.io/lectures/RPI-cast.zip)) and import it on your Google Chrome browser (using the `chrome://extensions` configuration page). 
 
 Inside the RPI-cast settings page use your Raspberry Pi IP address and store your configuration (the port I am using by default is 8888).
 
