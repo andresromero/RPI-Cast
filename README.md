@@ -3,7 +3,7 @@ RPI-Cast
 
 Raspberry PI ChromeCast-like server and Google Chrome extension
 
-![RPI-Cast icon](rpi-icon.png)
+![RPI-Cast icon](images/rpi-icon.png)
 
 I am happy to present RPI-Cast a Google Chrome's extension that will turn your Raspberry PI into a Google Chromecast-like device. Once everything is installed and configured, you'll be able to play videos on your TV and command their reproduction (volume, pause-play and time) directly from your Google Chrome Browser (from your laptop or smart-phone devices).
 
