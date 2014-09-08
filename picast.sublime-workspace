@@ -1,0 +1,2411 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mark",
+				"markdown"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"unp",
+				"unpacked_data"
+			],
+			[
+				"displ",
+				"displayModel"
+			],
+			[
+				"img",
+				"imgArea"
+			],
+			[
+				"N",
+				"N_COV_POINTS"
+			],
+			[
+				"N_",
+				"N_SAMPLES"
+			],
+			[
+				"Cov",
+				"CovDsc"
+			],
+			[
+				"EL",
+				"ELBCM_Inv"
+			],
+			[
+				"displa",
+				"display_matrix"
+			],
+			[
+				"max",
+				"maxList"
+			],
+			[
+				"HSv",
+				"ELBCM_HSV"
+			],
+			[
+				"Lu",
+				"Lum_LBP"
+			],
+			[
+				"H",
+				"HSV_grads"
+			],
+			[
+				"E",
+				"ELBCM_HSV"
+			],
+			[
+				"Lum",
+				"Lum_LBP"
+			],
+			[
+				"RG",
+				"RGB_LBP8"
+			],
+			[
+				"RGB",
+				"RGB_grads"
+			],
+			[
+				"HSV",
+				"HSV_LBP"
+			],
+			[
+				"dir",
+				"dirname"
+			],
+			[
+				"single",
+				"singleFlag"
+			],
+			[
+				"ELB",
+				"ELBCM"
+			],
+			[
+				"su",
+				"subsample"
+			],
+			[
+				"ELBCM",
+				"ELBCM_HSV"
+			],
+			[
+				"ELBC",
+				"ELBCM_HSV"
+			],
+			[
+				"Seq",
+				"Sequence_Get_TStart"
+			],
+			[
+				"path",
+				"path_idx"
+			],
+			[
+				"Mult",
+				"MultiTrackUtils"
+			],
+			[
+				"area",
+				"area_det"
+			],
+			[
+				"get",
+				"getPath"
+			],
+			[
+				"repea",
+				"repeated_dists"
+			],
+			[
+				"area_",
+				"area_det"
+			],
+			[
+				"sequence",
+				"sequence_path"
+			],
+			[
+				"are",
+				"area_path"
+			],
+			[
+				"getL",
+				"getLastLocation"
+			],
+			[
+				"unm",
+				"unmatch"
+			],
+			[
+				"pro",
+				"propagation"
+			],
+			[
+				"unma",
+				"unmatch"
+			],
+			[
+				"unmat",
+				"unmatch"
+			],
+			[
+				"un",
+				"unmatched"
+			],
+			[
+				"dete",
+				"detections_tmp"
+			],
+			[
+				"det",
+				"det_idx"
+			],
+			[
+				"add",
+				"addLocation"
+			],
+			[
+				"path_",
+				"path_area"
+			],
+			[
+				"pairs",
+				"pairs_tmp"
+			],
+			[
+				"path_a",
+				"path_area"
+			],
+			[
+				"poin",
+				"point2segment"
+			],
+			[
+				"dis",
+				"distance2boundary"
+			],
+			[
+				"wi",
+				"within"
+			],
+			[
+				"con",
+				"contour"
+			],
+			[
+				"save",
+				"savefig"
+			],
+			[
+				"polygon",
+				"polygonTrackingArea"
+			],
+			[
+				"seque",
+				"sequence_path"
+			],
+			[
+				"append",
+				"appendFlag"
+			],
+			[
+				"appe",
+				"appendFlag"
+			],
+			[
+				"cv2",
+				"cv2Area"
+			],
+			[
+				"Mul",
+				"MultiTracker"
+			],
+			[
+				"track",
+				"trackingArea"
+			],
+			[
+				"evalua",
+				"evaluation"
+			],
+			[
+				"inte",
+				"interpolatedFlag"
+			],
+			[
+				"evalu",
+				"evaluation"
+			],
+			[
+				"dispal",
+				"displayModel"
+			],
+			[
+				"cov",
+				"covHandler"
+			],
+			[
+				"cur",
+				"current_file"
+			],
+			[
+				"seq",
+				"sequence"
+			],
+			[
+				"file",
+				"filePattern"
+			],
+			[
+				"load",
+				"loadImage"
+			],
+			[
+				"pat",
+				"path_id"
+			],
+			[
+				"eval",
+				"evaluatePath"
+			],
+			[
+				"time",
+				"time_scroll"
+			],
+			[
+				"obj",
+				"objArea"
+			],
+			[
+				"Sav",
+				"SavePPM_rgb8matrix"
+			],
+			[
+				"COORDS_",
+				"COORDS_ARROWS"
+			],
+			[
+				"covGet",
+				"covGetModel"
+			],
+			[
+				"calc",
+				"calcSimilarity"
+			],
+			[
+				"free_f",
+				"free_f32vector"
+			],
+			[
+				"space",
+				"space_str"
+			],
+			[
+				"Area",
+				"Area_Get"
+			],
+			[
+				"COPY",
+				"COPY_AREA"
+			],
+			[
+				"fram",
+				"frameChanged"
+			],
+			[
+				"color",
+				"color_space"
+			],
+			[
+				"sear",
+				"searchPaths"
+			],
+			[
+				"Cova",
+				"Covariance_handler"
+			],
+			[
+				"draw",
+				"drawPaths"
+			],
+			[
+				"ma",
+				"marked"
+			],
+			[
+				"sque",
+				"sequence_path"
+			],
+			[
+				"mou",
+				"mouseOver"
+			],
+			[
+				"LU",
+				"Lum_LBP8"
+			],
+			[
+				"opt",
+				"optarg"
+			],
+			[
+				"Se",
+				"Sequence_Get_TStop"
+			],
+			[
+				"Sequ",
+				"Sequence_Get_T"
+			],
+			[
+				"trac",
+				"track_id"
+			],
+			[
+				"box_",
+				"box_props"
+			],
+			[
+				"box",
+				"box_values"
+			],
+			[
+				"node",
+				"nodeCount"
+			],
+			[
+				"location",
+				"locations"
+			],
+			[
+				"Lum_ULB",
+				"Lum_ULBP"
+			],
+			[
+				"table",
+				"table_strings"
+			],
+			[
+				"in",
+				"indexes"
+			],
+			[
+				"trak",
+				"trackThreshold"
+			],
+			[
+				"u",
+				"utility"
+			],
+			[
+				"read",
+				"readTable"
+			],
+			[
+				"rea",
+				"readTable"
+			],
+			[
+				"trkObjC",
+				"trkObjCT"
+			],
+			[
+				"RGB_LB",
+				"RGB_LBP8"
+			],
+			[
+				"sort",
+				"sort_list"
+			],
+			[
+				"des",
+				"descriptors"
+			],
+			[
+				"loadCov",
+				"loadCovDescriptor"
+			],
+			[
+				"end",
+				"endswith"
+			],
+			[
+				"colors",
+				"color_space_str"
+			],
+			[
+				"im",
+				"img_files"
+			],
+			[
+				"Lum_LBP",
+				"Lum_LBP8"
+			],
+			[
+				"RGB_L",
+				"RGB_LBP8"
+			],
+			[
+				"RGB_",
+				"RGB_LBP8"
+			],
+			[
+				"Lum_LB",
+				"Lum_LBP8"
+			],
+			[
+				"Gaus",
+				"GaussColor"
+			],
+			[
+				"Gaussian",
+				"GaussianSpace"
+			],
+			[
+				"COORDS",
+				"COORDS_B"
+			],
+			[
+				"rgb",
+				"rgbf32"
+			],
+			[
+				"cam",
+				"cameraFixed"
+			],
+			[
+				"Lum_gra",
+				"Lum_grads"
+			],
+			[
+				"exha",
+				"exhaustively"
+			],
+			[
+				"orienta",
+				"orientations"
+			],
+			[
+				"cite",
+				"citeauthor"
+			],
+			[
+				"represe",
+				"representation"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "omxplayer-dbus.py",
+			"settings":
+			{
+				"buffer_size": 1159,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/contentScript.js",
+			"settings":
+			{
+				"buffer_size": 4024,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1144,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "root@192.168.0.12",
+			"settings":
+			{
+				"buffer_size": 3099,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "Searching 6 files for \"contentScript.js\"\n\n/home/andres/src/picast/0.1.9_0/scripts/fullapp.js:\n  506  \n  507          function d() {\n  508:             c(\"components/libvget/libvget.js\"), c(\"scripts/contentScript.js\"), a.insertCSS({\n  509                  file: \"styles/contentScript.css\",\n  510                  allFrames: !0,\n\n1 match in 1 file\n",
+			"settings":
+			{
+				"buffer_size": 346,
+				"line_ending": "Unix",
+				"name": "Find Results",
+				"scratch": true
+			}
+		},
+		{
+			"file": "options.html",
+			"settings":
+			{
+				"buffer_size": 275,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/options.js",
+			"settings":
+			{
+				"buffer_size": 1065,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "scripts/fullapp.js",
+			"settings":
+			{
+				"buffer_size": 23620,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<div class=\"main\">\n    <div data-ng-show=\"vcastMissing\">The <a href=\"https://chrome.google.com/webstore/detail/vget-cast-dlna-controller/ekdjofnchpbfmnfbedalmbdlhbabiapi\" data-new-tab>vGet Cast App</a> is not installed. Install it to cast videos to your Smart TV.</div>\n    <ul class=\"videoList\">\n        <li class=\"video\" data-ng-repeat=\"video in detectedVideos\" data-ng-mouseenter=\"highlight(video, true)\" data-ng-mouseleave=\"highlight(video, false)\">\n            <div data-ng-show=\"video.isYoutube\">\n                <div class=\"videoType\">Youtube Video</div>Not allowed due to TOS restrictions, sorry.</div>\n            <div data-ng-hide=\"video.isYoutube\">\n                <div data-ng-show=\"video.type == \\'html5\\'\" class=\"videoType\">HTML5 Video</div>\n                <div data-ng-show=\"video.type == \\'flash\\'\" class=\"videoType\">Flash Video</div>\n                <div data-ng-show=\"video.type == \\'unsupported\\'\" class=\"videoType\">Unsupported Flash Video</div>\n                <div class=\"sourceItem\" data-ng-repeat=\"src in video.sources\">{{src|guessFilename}}\n                    <button class=\"btn-icon download\" title=\"Download {{src.url}}\" data-ng-click=\"download(video, src)\"></button>\n                    <button class=\"btn-icon cast\" title=\"Cast video\" data-ng-click=\"cast(video, src)\"></button>\n                </div>\n            </div>\n        </li>\n    </ul>\n    <div data-ng-hide=\"detectedVideos.length\" class=\"noVideo\">No Video detected on this page.\n        <br>If there is a video, start playback and try again.</div>\n</div>",
+			"settings":
+			{
+				"buffer_size": 1543,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "manifest.json",
+			"settings":
+			{
+				"buffer_size": 1282,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "websocket_server.py",
+			"settings":
+			{
+				"buffer_size": 2022,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/main.css",
+			"settings":
+			{
+				"buffer_size": 30227,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"htm",
+				"HTMLPrettify"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ht",
+				"HTMLPrettify"
+			],
+			[
+				"packag",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"env",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"preview",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"table",
+				"Table Cleaner: Align Table"
+			],
+			[
+				"table ",
+				"Table Editor: Enable for current syntax"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"markdown",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"package ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"package insta",
+				"Package Control: Install Package"
+			],
+			[
+				"githu",
+				"MdCodeBlock: Wrap Github Flavered Code Block"
+			],
+			[
+				"previ",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"build",
+				"Legal Markdown - Build Final Document via Pandoc"
+			],
+			[
+				"github",
+				"GitHub Flavored Markdown: Preview"
+			],
+			[
+				"previe",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"comme",
+				"Toggle Comment"
+			],
+			[
+				"commen",
+				"Toggle Comment"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"close all",
+				"File: Close All"
+			],
+			[
+				"prev",
+				"Markdown Preview: Github Flavored Markdown: Preview in Browser"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"comment",
+				"Toggle Comment"
+			],
+			[
+				"hello",
+				"Snippet: Manifest for Sample App 1 - hello world"
+			],
+			[
+				"post",
+				"Snippet: Background page script for Sample App 1 - hello world"
+			],
+			[
+				"Snippet: ",
+				"Snippet: pets"
+			],
+			[
+				"set synta",
+				"Set Syntax: R"
+			],
+			[
+				"Snippet: high",
+				"Snippet: hightlight"
+			],
+			[
+				"comm",
+				"Toggle Comment"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"ctags",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"the",
+				"Thesaurus search"
+			],
+			[
+				"thes",
+				"Thesaurus search"
+			],
+			[
+				"pytho",
+				"Markdown Preview: Python Markdown: Preview in Browser"
+			],
+			[
+				"pyt",
+				"Set Syntax: Python"
+			],
+			[
+				"boo",
+				"Bookmarks: Toggle"
+			],
+			[
+				"hg log",
+				"Hg: Log All"
+			],
+			[
+				"hg com",
+				"Hg: Custom Command"
+			],
+			[
+				"hg",
+				"Hg: Custom Command"
+			],
+			[
+				"hg ",
+				"Hg: Log All"
+			],
+			[
+				"hg dif",
+				"Hg: Diff Current File"
+			],
+			[
+				"hg sta",
+				"Hg: Status"
+			],
+			[
+				"hg comm",
+				"Hg: Quick Commit"
+			],
+			[
+				"hg rm",
+				"Hg: Choose File To Remove"
+			],
+			[
+				"choos",
+				"Hg: Choose File To Add"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"book",
+				"Bookmarks: Toggle"
+			],
+			[
+				"sym",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"jump",
+				"LaTeXTools: Jump to PDF"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"show",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"shos",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"symbol",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"symbo",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"CTAGS",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"cta",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"ctga",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"tags",
+				"CTags: Show Symbols (all)"
+			],
+			[
+				"xml",
+				"Set Syntax: XML"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pdf",
+				"LaTeXTools: View PDF"
+			],
+			[
+				"pak",
+				"Package Control: Remove Package"
+			],
+			[
+				"th",
+				"Thesaurus search"
+			],
+			[
+				"t",
+				"Thesaurus search"
+			],
+			[
+				"us",
+				"Preferences: Settings - User"
+			],
+			[
+				"user",
+				"Preferences: Settings - User"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"section",
+				"Snippet: Sub Section"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"markdow",
+				"Markdown Preview: preview in Browser"
+			],
+			[
+				"markdwo",
+				"Markdown Preview: open Markdown Cheat sheet"
+			],
+			[
+				"pakc",
+				"Package Control: Install Package"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"latex",
+				"Set Syntax: LaTeX"
+			],
+			[
+				"lint",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"tets",
+				"View: Toggle Tabs"
+			],
+			[
+				"set syn c",
+				"Set Syntax: C"
+			],
+			[
+				"set syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"File: Revert"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			],
+			[
+				"vei",
+				"View: Toggle Open Files in Side Bar"
+			]
+		],
+		"width": 602.0
+	},
+	"console":
+	{
+		"height": 167.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": false,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/andres/src/picast/0.1.9_0/scripts/fullapp.js",
+		"/home/andres/src/picast/0.1.9_0/scripts/contentScript.js",
+		"/home/andres/src/picast/0.1.9_0/picast.service",
+		"/home/andres/src/picast-0.1/manifest.json",
+		"/home/andres/src/picast-0.1/client.html",
+		"/home/andres/src/picast/0.1.9_0/index.html",
+		"/home/andres/src/picast/0.1.9_0/manifest.json",
+		"/home/andres/src/picast-0.1/options.html",
+		"/home/andres/src/picast/0.1.9_0/options.html",
+		"/home/andres/src/picast/0.1.9_0/scripts/options.js",
+		"/tmp/chromecast/popup_menu_script.js",
+		"/tmp/chromecast/popup_menu.html",
+		"/home/andres/src/picast-0.1/main.js",
+		"/home/andres/src/picast-0.1/popup.html",
+		"/home/andres/src/picast-0.1/popup.js",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/skimage_scripts/colorRGB_test.py",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-02-11-LSH-covariances.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-06-11-Playing-live-streams.md",
+		"/tmp/test.cpp",
+		"/tmp/d-nets.cpp",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-06-15-Segment-matching.md",
+		"/home/andres/Dropbox/ATER_Enseignements/encadrement 121/Instructions.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/esilv.md",
+		"/home/andres/Dropbox/ATER_Enseignements/encadrement 121/exam12.md",
+		"/tmp/sift.cpp",
+		"/tmp/matcher_simple.cpp",
+		"/tmp/sift.py",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-02-25-Large-images.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2013-07-11-Compres-PDF-files.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/planorama.md",
+		"/home/andres/.bashrc",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-02-01-Minería-datos-masivos.md",
+		"/home/andres/Dropbox/andresromero.github.com/links/index.md",
+		"/home/andres/Private/tramites/Prefecture.md",
+		"/home/andres/Dropbox/tramites administrativos/titreSalarie/Prefecture.md",
+		"/home/andres/Dropbox/tramites administrativos/titreSalarie/lettreChangementStatusMonica.tex",
+		"/home/andres/Dropbox/tramites administrativos/titreSalarie/declarationManutentionPlanorama.tex",
+		"/home/andres/Dropbox/tramites administrativos/titreSalarie/lettreChangementStatus.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/Ferns.mobi",
+		"/home/andres/src/covarianceV4-2/thesis/CMakeLists.txt",
+		"/tmp/Ferns.md",
+		"/tmp/test.py",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/md-to-mobi.sh",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/enron_naive_bayes.sh",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-06-02-mapReduceLimits.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-02-04-Instalación-Hadoop.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/metadata.xml",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-06-09-math_in_kindle.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/Introduction to DZSlides.html",
+		"/tmp/svm.py",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/dzslides-template.html",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/planorama.html",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/planorama-tmp.html",
+		"/home/andres/Dropbox/andresromero.github.com/_site/lectures/postes.html",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2013-07-08-My-first-post.md",
+		"/home/andres/Dropbox/andresromero.github.com/l",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/skeleton.css",
+		"/home/andres/Dropbox/andresromero.github.com/_layouts/default.html",
+		"/home/andres/sharedFiles/covarianceWin/README.md",
+		"/home/andres/Dropbox/andresromero.github.com/google/google.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/google.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/criteo.md",
+		"/home/andres/src/tex2ebook/iphone-pandoc-template.latex",
+		"/tmp/Introduction to DZSlides_files/css.css",
+		"/tmp/Introduction to DZSlides.html",
+		"/home/andres/src/reveal.js/planorama.md",
+		"/home/andres/src/reveal.js/slides.html",
+		"/home/andres/Dropbox/a",
+		"/home/andres/src/reveal.js/slides.md",
+		"/tmp/arm.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/ARM/addition.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/ARM/multiplication.md",
+		"/home/andres/Dropbox/andresromero.github.com/publications/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/mobile.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/Planorama/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/Planorama/index2.md",
+		"/home/andres/Dropbox/tramites administrativos/coverLetter.md",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/default.css",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/base.css",
+		"/home/andres/Dropbox/andresromero.github.com/gallery/masonry.css",
+		"/home/andres/Dropbox/andresromero.github.com/publications/css/publications.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/publications/css/publications.css",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/arm.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/Planorama",
+		"/tmp/lsh.py",
+		"/home/andres/Descargas/noname.eml",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/mathworks.md",
+		"/home/andres/Dropbox/cv/cv.tex",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/postes.md",
+		"/home/andres/Dropbox/andresromero.github.com/mathworks.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2013-07-19-streaming-sound.md",
+		"/home/andres/Dropbox/andresromero.github.com/_site/lectures/mathworks.html",
+		"/home/andres/Dropbox/andresromero.github.com/_site/lectures/mathworks.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-02-28-People-you-may-know.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2013-12-19-Basic-ncurses-python-example.md",
+		"/home/andres/Dropbox/andresromero.github.com/stylesheets/pygments.css",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/syntax.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/static/css/default.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/stylesheets/pygments.css",
+		"/home/andres/Dropbox/andresromero.github.com/static/css/style.css",
+		"/home/andres/Dropbox/andresromero.github.com/_site/static/css/style.css",
+		"/home/andres/Dropbox/andresromero.github.com/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-03-01-Reglas-asociacion-datos.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-03-06-benchsEurasip.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/Google/bigOnotation.md",
+		"/home/andres/Dropbox/andresromero.github.com/_site/google/index.md",
+		"/home/andres/src/hadoop/reduce_friends_rec.py",
+		"/home/andres/Dropbox/andresromero.github.com/_site/static/css/base.css",
+		"/home/andres/.config/sublime-text-2/Packages/User/Highlight.sublime-snippet",
+		"/home/andres/.config/sublime-text-2/Packages/User/test.sublime-snippet",
+		"/home/andres/.config/sublime-text-2/Packages/Markdown/helloWorld.py",
+		"/home/andres/Dropbox/andresromero.github.com/notes/hadoop.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/xmlTD1.md",
+		"/tmp/test.tex",
+		"/home/andres/.config/sublime-text-2/Packages/User/highlight.sublime-snippet",
+		"/home/andres/.config/sublime-text-2/Packages/User/Post.sublime-snippet",
+		"/home/andres/.config/sublime-text-2/Packages/User/post.sublime-snippet",
+		"/home/andres/Dropbox/src/Doing Data Science/exercise1.R",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/index.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/xalan.md",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/XML/dom-php.md",
+		"/home/andres/Dropbox/andresromero.github.com/_posts/2014-02-14-LSH-example.md",
+		"/home/andres/.config/sublime-text-3/Packages/LaTeXTools/LaTeXTools Preferences.sublime-settings",
+		"/home/andres/.config/sublime-text-3/Packages/LaTeXTools/README.markdown",
+		"/home/andres/.config/sublime-text-3/Packages/User/highlight.sublime-snippet",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/XML/php and dom/test.php",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/XML/php and dom/form.php",
+		"/home/andres/Dropbox/andresromero.github.com/lectures/XML/php and dom/books.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"*.js",
+			"*",
+			"*.cpp",
+			"*",
+			"*.css",
+			"*.md",
+			"*.css",
+			"*.md",
+			"*.css",
+			"*.md",
+			"*.css",
+			"*",
+			"*.css",
+			"*.py",
+			"*.c",
+			"*.py",
+			"*.c",
+			"*.py",
+			"*.txt",
+			"*.py",
+			"*.tex",
+			"*.c",
+			"*.py",
+			"*.tex",
+			"*",
+			"*.tex",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"appendChild",
+			"volume_up",
+			"play",
+			"fa-play",
+			"print",
+			"makeTin",
+			"contentScript.js",
+			"j(",
+			"download",
+			"omxpl",
+			"volume_change",
+			"JSON",
+			"_up",
+			"volume_up",
+			"_up",
+			"Toogle",
+			"disabled",
+			"org.mpris.MediaPlayer2.omxplayer",
+			"vcastMissing",
+			"cast",
+			"console.log",
+			"download",
+			"download(",
+			"data-ng-click",
+			"video",
+			".btn-icon",
+			"sourceItem",
+			"HTML",
+			"html 5 video",
+			"HTML 5 VIDEO",
+			"HTML VIDEO 5",
+			"128",
+			"icon128",
+			"icon",
+			".btn-icon.download",
+			"download",
+			"wbIcon-s7ac3196ffd.png",
+			"HTML5 VIDEO",
+			"k(a",
+			"k(",
+			"i(",
+			"removeChild",
+			"No video",
+			"jquery",
+			"subpro",
+			"omxplayerdbus",
+			"i(",
+			"download",
+			"download.png",
+			"html",
+			"a",
+			"}",
+			"{",
+			"−→",
+			"`e",
+			"v 2",
+			"v 1",
+			" ",
+			"nb villes",
+			" ́\ne",
+			"ˆ\ne",
+			" ́e",
+			"`a",
+			"ˆe",
+			"–",
+			"•",
+			"`e",
+			" ́e",
+			"`\nu",
+			"`e",
+			"`a",
+			" ́e",
+			"n  ",
+			"`a",
+			" ́e",
+			"$",
+			"s ",
+			"p ",
+			"a ",
+			" 󸀠",
+			"b ",
+			"a ",
+			"nMaxDTokens",
+			"nSections",
+			"nMaxDTokens",
+			"DList",
+			"DList::create(unsigned long, unsigned int)",
+			"SIFT",
+			"match",
+			"p_common",
+			"CommonParams",
+			"gray",
+			"font-size",
+			"mobi",
+			"epub",
+			"}",
+			":",
+			"\": ",
+			":",
+			" {",
+			"\": ",
+			":",
+			"background",
+			"normal",
+			"math",
+			"*k",
+			"figure",
+			"align",
+			"img",
+			"figure",
+			"image",
+			"img",
+			"imgs",
+			"image",
+			"math",
+			"h1",
+			"title",
+			"align",
+			"color:",
+			"font",
+			"margin",
+			"title",
+			"css",
+			"script",
+			"css",
+			"begin",
+			"parskip",
+			"parsk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"**friendFlag**",
+			"\\subsubsection",
+			"\\subsubsection*",
+			"figures/gaussian",
+			"Gaussian",
+			"ELBCM_GaussColor",
+			"andresromero.github.com",
+			"fie",
+			"\\'{e}",
+			"\\emph{MRC}"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "omxplayer-dbus.py",
+					"settings":
+					{
+						"buffer_size": 1159,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								743,
+								743
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "scripts/contentScript.js",
+					"settings":
+					{
+						"buffer_size": 4024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1214,
+								1214
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 741.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 1144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								886,
+								886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 756.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "root@192.168.0.12",
+					"settings":
+					{
+						"buffer_size": 3099,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/ShellScript/Shell-Unix-Generic.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 168.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"settings":
+					{
+						"buffer_size": 346,
+						"regions":
+						{
+							"match":
+							{
+								"flags": 112,
+								"regions":
+								[
+									[
+										198,
+										214
+									]
+								],
+								"scope": ""
+							}
+						},
+						"selection":
+						[
+							[
+								212,
+								212
+							]
+						],
+						"settings":
+						{
+							"detect_indentation": false,
+							"output_tag": 1,
+							"result_base_dir": "",
+							"result_file_regex": "^([A-Za-z\\\\/<].*):$",
+							"result_line_regex": "^ +([0-9]+):",
+							"scroll_past_end": true,
+							"syntax": "Packages/Default/Find Results.hidden-tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "options.html",
+					"settings":
+					{
+						"buffer_size": 275,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								15,
+								15
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "scripts/options.js",
+					"settings":
+					{
+						"buffer_size": 1065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								922,
+								922
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 189.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "scripts/fullapp.js",
+					"settings":
+					{
+						"buffer_size": 23620,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3304,
+								3304
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2400.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"settings":
+					{
+						"buffer_size": 1543,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1330,
+								1330
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "manifest.json",
+					"settings":
+					{
+						"buffer_size": 1282,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 3,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "websocket_server.py",
+					"settings":
+					{
+						"buffer_size": 2022,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1715,
+								1715
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "styles/main.css",
+					"settings":
+					{
+						"buffer_size": 30227,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								30202,
+								30202
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 21095.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 28.0
+	},
+	"output.find_results":
+	{
+		"height": 148.0
+	},
+	"output.hg":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"0.1.9_0/styles/main.css"
+			],
+			[
+				"opt",
+				"/home/andres/src/picast/0.1.9_0/options.html"
+			],
+			[
+				"",
+				"0.1.9_0/index.html"
+			],
+			[
+				"inde",
+				"0.1.9_0/index.html"
+			],
+			[
+				"mani",
+				"0.1.9_0/manifest.json"
+			],
+			[
+				"js",
+				"0.1.9_0/scripts/contentScript.js"
+			],
+			[
+				"we",
+				"/home/andres/src/picast/0.1.9_0/websocket_server.py"
+			],
+			[
+				"options",
+				"/home/andres/src/picast/0.1.9_0/options.html"
+			],
+			[
+				"op",
+				"/home/andres/src/picast-0.1/options.html"
+			],
+			[
+				"html",
+				"0.1.9_0/index.html"
+			],
+			[
+				"conte",
+				"0.1.9_0/scripts/contentScript.js"
+			],
+			[
+				"cone",
+				"0.1.9_0/scripts/contentScript.js"
+			],
+			[
+				"app",
+				"0.1.9_0/scripts/fullapp.js"
+			],
+			[
+				"clie",
+				"/home/andres/src/picast-0.1/client.py"
+			],
+			[
+				"si",
+				"/home/andres/src/picast-0.1/simple_websocket_client.html"
+			],
+			[
+				"web",
+				"/home/andres/src/picast-0.1/websocket_server.py"
+			],
+			[
+				"ser",
+				"/home/andres/src/picast-0.1/server.py"
+			],
+			[
+				"main.js",
+				"/home/andres/src/picast-0.1/options.js"
+			],
+			[
+				"ma",
+				"manifest.json"
+			],
+			[
+				"main",
+				"manifest.json"
+			],
+			[
+				"pop",
+				"popup.js"
+			],
+			[
+				"po",
+				"popup.html"
+			],
+			[
+				"link",
+				"links/index.md"
+			],
+			[
+				"lettr",
+				"/home/andres/Dropbox/tramites administrativos/titreSalarie/lettreChangementStatus.tex"
+			],
+			[
+				"pre",
+				"/home/andres/Private/tramites/Prefecture.md"
+			],
+			[
+				"pref",
+				"/home/andres/Private/tramites/Prefecture.md"
+			],
+			[
+				"lettre",
+				"/home/andres/Dropbox/tramites administrativos/titreSalarie/lettreChangementStatus.tex"
+			],
+			[
+				"2014-",
+				"_posts/2014-02-01-Minería-datos-masivos.md"
+			],
+			[
+				"2014",
+				"_posts/2014-06-11-Playing-live-streams.md"
+			],
+			[
+				"planora",
+				"lectures/planorama.md"
+			],
+			[
+				"plano",
+				"lectures/planorama.md"
+			],
+			[
+				"fer",
+				"lectures/Ferns.mobi"
+			],
+			[
+				"20",
+				"_posts/2013-07-11-Compres-PDF-files.md"
+			],
+			[
+				"met",
+				"lectures/metadata.xml"
+			],
+			[
+				"pla",
+				"lectures/planorama.md"
+			],
+			[
+				"posts",
+				"_posts/2013-07-08-My-first-post.md"
+			],
+			[
+				"pos",
+				"_site/lectures/postes.html"
+			],
+			[
+				"dzsl",
+				"lectures/dzslides-template.html"
+			],
+			[
+				"googl",
+				"lectures/google.md"
+			],
+			[
+				"goo",
+				"google/google.md"
+			],
+			[
+				"post",
+				"_posts/2013-07-08-My-first-post.md"
+			],
+			[
+				"htm",
+				"_layouts/default.html"
+			],
+			[
+				"static/css",
+				"static/css/skeleton.css"
+			],
+			[
+				"defa",
+				"static/css/default.css"
+			],
+			[
+				"maso",
+				"gallery/masonry.css"
+			],
+			[
+				"base",
+				"static/css/base.css"
+			],
+			[
+				"lsh",
+				"_posts/2014-02-11-LSH-covariances.md"
+			],
+			[
+				"md",
+				"mobile.md"
+			],
+			[
+				"public/inde",
+				"publications/index.md"
+			],
+			[
+				"arm",
+				"lectures/arm.md"
+			],
+			[
+				"arm.d",
+				"lectures/arm.md"
+			],
+			[
+				"armd",
+				"lectures/arm.md"
+			],
+			[
+				"math",
+				"lectures/mathworks.md"
+			],
+			[
+				"postes",
+				"lectures/postes.md"
+			],
+			[
+				"lectures/math",
+				"lectures/mathworks.md"
+			],
+			[
+				"mathworks.html",
+				"_site/lectures/mathworks.html"
+			],
+			[
+				"defaul",
+				"static/css/default.css"
+			],
+			[
+				"py",
+				"stylesheets/pygments.css"
+			],
+			[
+				"pygm",
+				"stylesheets/pygments.css"
+			],
+			[
+				"pyt",
+				"_posts/2013-12-19-Basic-ncurses-python-example.md"
+			],
+			[
+				"syta",
+				"static/css/syntax.css"
+			],
+			[
+				"style",
+				"static/css/style.css"
+			],
+			[
+				"pyg",
+				"_site/stylesheets/pygments.css"
+			],
+			[
+				"synta",
+				"static/css/syntax.css"
+			],
+			[
+				"defau",
+				"_layouts/default.html"
+			],
+			[
+				"stylesh",
+				"stylesheets/pygments.css"
+			],
+			[
+				"lectures/mah",
+				"lectures/mathworks.md"
+			],
+			[
+				"mathwo",
+				"_site/lectures/mathworks.md"
+			],
+			[
+				"google.m",
+				"lectures/google.md"
+			],
+			[
+				"_google/",
+				"_site/google/index.md"
+			],
+			[
+				"_goog",
+				"_site/google/index.md"
+			],
+			[
+				"go",
+				"lectures/Google/bigOnotation.md"
+			],
+			[
+				"aso",
+				"_posts/2014-03-01-Reglas-asociacion-datos.md"
+			],
+			[
+				"peop",
+				"_posts/2014-02-28-People-you-may-know.md"
+			],
+			[
+				"st",
+				"static/css/style.css"
+			],
+			[
+				"default.",
+				"_site/static/css/default.css"
+			],
+			[
+				"ind",
+				"index.md"
+			],
+			[
+				"xml",
+				"lectures/xmlTD1.md"
+			],
+			[
+				"links",
+				"links/index.md"
+			],
+			[
+				"compres",
+				"_posts/2013-07-11-Compres-PDF-files.md"
+			],
+			[
+				"2013comp",
+				"_posts/2013-07-11-Compres-PDF-files.md"
+			],
+			[
+				"xpa",
+				"lectures/XML/php and dom/booksXPath2.php"
+			],
+			[
+				"booksxp",
+				"lectures/XML/php and dom/booksXPath.php"
+			],
+			[
+				"bookssan",
+				"lectures/XML/php and dom/booksSansXPath.php"
+			],
+			[
+				"crea",
+				"lectures/XML/php and dom/booksCreate.php"
+			],
+			[
+				"php",
+				"lectures/XML/php and dom/action.php"
+			],
+			[
+				"books",
+				"lectures/XML/php and dom/books.php"
+			],
+			[
+				"form",
+				"lectures/XML/php and dom/form.php"
+			],
+			[
+				"tes",
+				"lectures/XML/php and dom/test.php"
+			],
+			[
+				"xla",
+				"lectures/xalan.md"
+			],
+			[
+				"post/",
+				"_posts/2013-07-08-My-first-post.md"
+			],
+			[
+				"sql",
+				"lectures/exo_req.sql"
+			],
+			[
+				"xala",
+				"lectures/xalan.md"
+			],
+			[
+				"lec",
+				"lectures/index.md"
+			],
+			[
+				"lectures/ind",
+				"lectures/index.md"
+			],
+			[
+				"x",
+				"lectures/xalan.md"
+			],
+			[
+				"xal",
+				"lectures/xalan.md"
+			],
+			[
+				"mason",
+				"_layouts/masonry.html"
+			],
+			[
+				"post.h",
+				"_layouts/post.html"
+			],
+			[
+				"index",
+				"index.md"
+			],
+			[
+				"post.",
+				"_layouts/post.html"
+			],
+			[
+				"posts.css",
+				"publications/css/publications.css"
+			],
+			[
+				"style.c",
+				"static/css/style.css"
+			],
+			[
+				"mao",
+				"gallery/masonry.css"
+			],
+			[
+				"_posts",
+				"_posts/2013-09-22-representing-beliefs.md"
+			],
+			[
+				"lectures/i",
+				"lectures/index.md"
+			],
+			[
+				"google",
+				"google/google.md"
+			],
+			[
+				"2013",
+				"_posts/2013-10-1-Pan-de-muerto.md"
+			],
+			[
+				"201",
+				"_posts/2013-07-19-streaming-sound.md"
+			],
+			[
+				"lectures",
+				"lectures/index.md"
+			],
+			[
+				"defa.c",
+				"static/css/default.css"
+			],
+			[
+				"publi/in",
+				"publications/index.md"
+			],
+			[
+				"pub",
+				"_site/publications/publications.html"
+			],
+			[
+				"public/ind",
+				"publications/index.md"
+			],
+			[
+				"lectures/",
+				"lectures/index.md"
+			],
+			[
+				"publications/inde",
+				"publications/index.md"
+			],
+			[
+				"publica/inde",
+				"publications/index.md"
+			],
+			[
+				"vati",
+				"python/vaticGTparser.py"
+			],
+			[
+				"pathin",
+				"python/pathInterpolate.py"
+			],
+			[
+				"tests",
+				"python/tests.py"
+			],
+			[
+				"path.py",
+				"python/multitrack/path.py"
+			],
+			[
+				"paths",
+				"python/multitrack/paths.py"
+			],
+			[
+				"interpol",
+				"python/pathInterpolate.py"
+			],
+			[
+				"idenho",
+				"python/identityHog.py"
+			],
+			[
+				"re",
+				"python/receive.py"
+			],
+			[
+				"path",
+				"python/pathInterpolate.py"
+			],
+			[
+				"iden",
+				"demo/identity_build.c"
+			],
+			[
+				"bu",
+				"demo/identity_build.c"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"blog",
+				"/home/andres/Dropbox/andresromero.github.com/blog.sublime-project"
+			],
+			[
+				"pica",
+				"/home/andres/src/picast/0.1.9_0/picast.sublime-project"
+			],
+			[
+				"picas",
+				"/home/andres/src/picast-0.1/picast.sublime-project"
+			],
+			[
+				"cviu",
+				"/home/andres/Private/src/eurasip-benchs/cviu-benchs.sublime-project"
+			],
+			[
+				"eura",
+				"/home/andres/Dropbox/Andrés/eurasip2014/eurasip2014.sublime-project"
+			],
+			[
+				"ate",
+				"/home/andres/Dropbox/ATER_Enseignements/ATER.sublime-project"
+			],
+			[
+				"",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"thesi",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"blo",
+				"/home/andres/Dropbox/andresromero.github.com/blog.sublime-project"
+			],
+			[
+				"cv",
+				"/home/andres/Dropbox/andresromero.github.com/gallery/cvTemplate.sublime-project"
+			],
+			[
+				"eurasip",
+				"~/src/eurasip-benchs/eurasip-benchs.sublime-project"
+			],
+			[
+				"cov",
+				"/home/andres/Dropbox/covarianceARM-3/covarianceV4-3/SigmaDelta/SD_Interface/sigmaDelta.sublime-project"
+			],
+			[
+				"sou",
+				"/home/andres/Dropbox/seminario2013/soutenance.sublime-project"
+			],
+			[
+				"twi",
+				"/home/andres/Dropbox/src/twitterAPI/coursera-data-science/data-science.sublime-project"
+			],
+			[
+				"doi",
+				"/home/andres/Dropbox/src/Doing Data Science/doingDataScience.sublime-project"
+			],
+			[
+				"data",
+				"/home/andres/Dropbox/src/twitterAPI/coursera-data-science/data-science.sublime-project"
+			],
+			[
+				"ater",
+				"~/Dropbox/ATER_Enseignements/ATER.sublime-project"
+			],
+			[
+				"goo",
+				"/home/andres/Dropbox/Google Entrevista/google.sublime-project"
+			],
+			[
+				"google",
+				"/home/andres/Dropbox/Google Entrevista/google.sublime-project"
+			],
+			[
+				"goog",
+				"~/Dropbox/tramites administrativos/Google Entrevista/google.sublime-project"
+			],
+			[
+				"ths",
+				"~/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis-project-sublime.sublime-workspace"
+			],
+			[
+				"mul",
+				"/home/andres/Dropbox/multiTracking.sublime-project"
+			],
+			[
+				"sout",
+				"~/Dropbox/seminario2013/soutenance.sublime-project"
+			],
+			[
+				"covm",
+				"/home/andres/Dropbox/covarianceARM-3/covarianceV4-3/covarianceARM.sublime-project"
+			],
+			[
+				"cova",
+				"~/Dropbox/covarianceARM-3/covarianceV4-3/covarianceARM.sublime-project"
+			],
+			[
+				"thes",
+				"~/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"tp",
+				"/home/andres/Dropbox/andresromero.github.com/lectures/TP_TraitementImages.sublime-project"
+			],
+			[
+				"bit",
+				"/home/andres/Dropbox/bitácora/bitacora.sublime-project"
+			],
+			[
+				"covari",
+				"/home/andres/Dropbox/covarianceARM-3/covarianceV4-3/covarianceARM.sublime-project"
+			],
+			[
+				"mu",
+				"/home/andres/Dropbox/multiTracking/multiTracker.sublime-project"
+			],
+			[
+				"ml",
+				"/home/andres/Dropbox/multiTracking/multiTracker.sublime-project"
+			],
+			[
+				"mult",
+				"/home/andres/Dropbox/multiTracking/multiTracker.sublime-project"
+			],
+			[
+				"tehs",
+				"~/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"the",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"t",
+				"/home/andres/Dropbox/Documentos/Documentos/thesis/metathesis-v2.0/thesis.sublime-project"
+			],
+			[
+				"dasip",
+				"/home/andres/Dropbox/covarianceV4-2/covopt-dasip.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": false
+}

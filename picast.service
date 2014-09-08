@@ -1,0 +1,13 @@
+[Unit]
+Description=Raspberry PI Cast Project
+Requires=
+Wants=
+
+[Service]
+User=root  
+WorkingDirectory=/root
+ExecStart=/root/websocket_server.py
+PIDFile=/tmp/websocket_server.pid
+
+[Install]
+WantedBy=multi-user.target  

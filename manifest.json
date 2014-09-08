@@ -1,0 +1,26 @@
+{
+   "browser_action": {
+      "default_icon": {
+         "19": "images/rpi-icon.png",
+         "38": "images/rpi-icon.png"
+      },
+      "default_popup": "index.html",
+      "default_title": "Stream videos Raspberry PI"
+   },
+   "content_security_policy": "script-src 'self' http://localhost:9008 https://www.google-analytics.com; object-src 'self'",
+   "default_locale": "en",
+   "description": "Stream onlide videos to Raspberry PI",
+   "icons": {
+      "128": "images/rpi-icon.png",
+      "16": "images/rpi-icon.png",
+      "48": "images/rpi-icon.png"
+   },
+   "manifest_version": 2,
+   "minimum_chrome_version": "31",
+   "name": "RPIcast",
+   "optional_permissions": [  ],
+   "options_page": "options.html",
+   "permissions": [ "\u003Call_urls>", "downloads", "storage" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "0.0.1"
+}
